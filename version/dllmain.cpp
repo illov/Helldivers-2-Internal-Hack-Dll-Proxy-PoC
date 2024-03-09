@@ -144,7 +144,7 @@ DWORD WINAPI Payload(LPVOID lpParam)
             break;
 
         case 13: // Enter key
-            std::cout << _XOR_("Activate Cheat Feature.\n");
+            std::cout << _XOR_("Activate Cheat Feature.lulsor illov\n");
             break;
 
         case 27: // Esc key
